@@ -1,0 +1,15 @@
+C:\Users\marda\Desktop\Method tasks\Taskss\Taskss\bin\Debug\net6.0\Taskss.exe
+C:\Users\marda\Desktop\Method tasks\Taskss\Taskss\bin\Debug\net6.0\Taskss.deps.json
+C:\Users\marda\Desktop\Method tasks\Taskss\Taskss\bin\Debug\net6.0\Taskss.runtimeconfig.json
+C:\Users\marda\Desktop\Method tasks\Taskss\Taskss\bin\Debug\net6.0\Taskss.dll
+C:\Users\marda\Desktop\Method tasks\Taskss\Taskss\bin\Debug\net6.0\Taskss.pdb
+C:\Users\marda\Desktop\Method tasks\Taskss\Taskss\obj\Debug\net6.0\Taskss.csproj.AssemblyReference.cache
+C:\Users\marda\Desktop\Method tasks\Taskss\Taskss\obj\Debug\net6.0\Taskss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marda\Desktop\Method tasks\Taskss\Taskss\obj\Debug\net6.0\Taskss.AssemblyInfoInputs.cache
+C:\Users\marda\Desktop\Method tasks\Taskss\Taskss\obj\Debug\net6.0\Taskss.AssemblyInfo.cs
+C:\Users\marda\Desktop\Method tasks\Taskss\Taskss\obj\Debug\net6.0\Taskss.csproj.CoreCompileInputs.cache
+C:\Users\marda\Desktop\Method tasks\Taskss\Taskss\obj\Debug\net6.0\Taskss.dll
+C:\Users\marda\Desktop\Method tasks\Taskss\Taskss\obj\Debug\net6.0\refint\Taskss.dll
+C:\Users\marda\Desktop\Method tasks\Taskss\Taskss\obj\Debug\net6.0\Taskss.pdb
+C:\Users\marda\Desktop\Method tasks\Taskss\Taskss\obj\Debug\net6.0\Taskss.genruntimeconfig.cache
+C:\Users\marda\Desktop\Method tasks\Taskss\Taskss\obj\Debug\net6.0\ref\Taskss.dll
